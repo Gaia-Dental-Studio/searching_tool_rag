@@ -1,0 +1,5 @@
+sentence-transformers
+chromadb
+langchain-community 
+langchain-huggingface 
+langchain-chroma 
